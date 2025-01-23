@@ -1,0 +1,1 @@
+This is my first text in this txt file for testing the git and GitHub
